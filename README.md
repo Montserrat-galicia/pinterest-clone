@@ -1,4 +1,4 @@
-# Portafolio de Montserrat Flores Galicia
+# Pinterest Clon
 ## Proyecto responsivo realizado con CSS y HTML
 
 Proyecto creado duarante el bootcamp de Tecnolochicas PRO, es adaptable a distintos dispositivos o tamaños de pantalla mediante el uso de la página Vercel.
